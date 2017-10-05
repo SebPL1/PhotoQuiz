@@ -1,0 +1,27 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Photo Quiz</string>
+    <string name="hello">Welcome to Photo Quiz!</string>
+    <string name="hello2">Type your name just below:</string>
+    <string name="congrat">Congratulation\u00A0</string>
+    <string name="congrat2">\u00A0 your result is \u00A0</string>
+    <string name="outof">/4!</string>
+    <string name="name">Type your name here...</string>
+    <string name="blank"></string>
+    <string name="reset">reset</string>
+    <string name="q1">1. What is the size of full-frame sensor?</string>
+    <string name="q1a1">1\"</string>
+    <string name="q1a2">2\"</string>
+    <string name="q1a3">35 mm</string>
+    <string name="q2">2. What the parameter \"A\" stands for?</string>
+    <string name="q2a1">Automatic</string>
+    <string name="q2a2">Audio</string>
+    <string name="q2a3">Aperture</string>
+    <string name="q3">3. Choose colour model pallets used in digital photography:</string>
+    <string name="q3a1">sRGB</string>
+    <string name="q3a2">AdobePDF</string>
+    <string name="q3a3">AdobeRGB</string>
+    <string name="q4">4. What the letter \"G\" stands for in RGB?</string>
+    <string name="q4a1">Type the answer here...</string>
+    <string name="q4a2">green</string>
+    <string name="submit">Submit</string>
+</resources>
